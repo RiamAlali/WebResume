@@ -1,0 +1,39 @@
+body
+  {overflow:auto;
+   background-color:black;
+   color:rgb(125, 102, 8);
+   font-family:"Telugu MN";
+   font-size:20px;
+   font-weight:normal;}
+.personal-pic
+   {width:25%;
+    margin-top:60px;
+    margin-right:170px;
+    float:right;
+    border:10px outset rgb(183, 149, 11); }
+h1
+   {font-family:"Times New Roman", Georgia, Lucida Console;;
+    color:rgb(125, 102, 8);;
+    font-size:50px;
+    font-weight:bold;
+    text-decoration:underline;
+    text-indent:80px;}
+span{color:white;}
+p{font-family:noteworthy, arial;
+    text-indent:400px;}
+div
+   {background-color:rgb(252, 243, 207);
+    margin:30px;}
+h4
+   {text-shadow:1px 1px 1px black;
+    word-spacing:5px;
+    padding-top:20px;
+    text-indent:40px;}
+#resources
+   {text-align:center;
+    word-spacing:50px;}
+h6{font-family:"apple chancery";
+   word-spacing:1px;
+   font-weight:bold;
+   text-decoration:underline;
+   padding-top:10px;}
